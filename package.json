@@ -1,0 +1,24 @@
+{
+  "name": "todoapi",
+  "version": "1.0.0",
+  "description": "test API for Indigitous KB Beta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simplic8",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplic8/todoAPI.git"
+  },
+  "keywords": [
+    "kb",
+    "todo",
+    "todoAPI"
+  ],
+  "bugs": {
+    "url": "https://github.com/simplic8/todoAPI/issues"
+  },
+  "homepage": "https://github.com/simplic8/todoAPI#readme"
+}
